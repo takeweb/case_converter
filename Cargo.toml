@@ -2,6 +2,12 @@
 name = "case_converter"
 version = "0.1.0"
 edition = "2021"
+authors = ["takeweb"]
+description = "Case Converter"
+license = "MIT"
+include = ["src/", "README.md"]
+homepage = "https://github.com/takeweb/case_converter/README.md"
+repository = "https://github.com/takeweb/case_converter"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
